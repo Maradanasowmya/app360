@@ -1,0 +1,2177 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2025-07-09 17:57:11">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 11:47:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4af840c72b6ae610d16df709f291bf8e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Operation Metrics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_update_name>sys_portal_page_4af840c72b6ae610d16df709f291bf8e</sys_update_name>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 11:48:52</sys_updated_on>
+        <title>Operation Metrics</title>
+        <user/>
+        <view>new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Alerts count</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:21:51</sys_created_on>
+                <sys_id>067ed48b2beae610d16df709f291bfb8</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:23:20</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:21:51</sys_created_on>
+                        <sys_id>0e7e50cb2beae610d16df709f291bfd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:21:51</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:21:51</sys_created_on>
+                        <sys_id>467e50cb2beae610d16df709f291bfd4</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:23:20</sys_updated_on>
+                        <value>Alerts count</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:21:51</sys_created_on>
+                        <sys_id>827e50cb2beae610d16df709f291bfd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:21:51</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>83fdfccf2baee610d16df709f291bf0e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>83fdfccf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>83fdfccf2baee610d16df709f291bf10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>#fafcff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:21:51</sys_created_on>
+                        <sys_id>867ed48b2beae610d16df709f291bfb8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:23:20</sys_updated_on>
+                        <value>f3ce988b2beae610d16df709f291bf08</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>87fdfccf2baee610d16df709f291bf0e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>87fdfccf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>87fdfccf2baee610d16df709f291bf10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>8bfdfccf2baee610d16df709f291bf0e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>8bfdfccf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>8ffdfccf2baee610d16df709f291bf0e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:33</sys_created_on>
+                        <sys_id>8ffdfccf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:33</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:21:51">067ed48b2beae610d16df709f291bfb8</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:21:51</sys_created_on>
+                        <sys_id>ce7e50cb2beae610d16df709f291bfd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:21:51</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Open Incidents</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 11:49:30</sys_created_on>
+                <sys_id>1d59840b2b6ae610d16df709f291bf4e</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 11:52:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:49:30</sys_created_on>
+                        <sys_id>1159840b2b6ae610d16df709f291bf50</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:49:30</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>50b0e40f2beae610d16df709f291bfb7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>50b0e40f2beae610d16df709f291bfb8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>50b0e40f2beae610d16df709f291bfb9</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:34:28</sys_updated_on>
+                        <value>#ffffff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>54b0e40f2beae610d16df709f291bfb7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>54b0e40f2beae610d16df709f291bfb8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>58b0e40f2beae610d16df709f291bfb7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>58b0e40f2beae610d16df709f291bfb8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:49:30</sys_created_on>
+                        <sys_id>5959840b2b6ae610d16df709f291bf50</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:52:43</sys_updated_on>
+                        <value>Open Incidents</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>5cb0e40f2beae610d16df709f291bfb7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:31:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:31:33</sys_created_on>
+                        <sys_id>5cb0e40f2beae610d16df709f291bfb8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:34:57</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:49:30</sys_created_on>
+                        <sys_id>9159840b2b6ae610d16df709f291bf4f</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:52:43</sys_updated_on>
+                        <value>e81acc4b2b6ae610d16df709f291bf91</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:49:30</sys_created_on>
+                        <sys_id>9559840b2b6ae610d16df709f291bf50</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:49:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:49:30</sys_created_on>
+                        <sys_id>d159840b2b6ae610d16df709f291bf50</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:49:30</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 04:49:30">1d59840b2b6ae610d16df709f291bf4e</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:34:28</sys_created_on>
+                        <sys_id>f251e4cf2beae610d16df709f291bff0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:34:28</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>IncidentCount by Month &amp; Priority (SAP)</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:35:16</sys_created_on>
+                <sys_id>2a8164cf2beae610d16df709f291bfaa</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:38:01</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:35:16</sys_created_on>
+                        <sys_id>228164cf2beae610d16df709f291bfab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:35:16</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>528985032b222a10d16df709f291bfce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>528985032b222a10d16df709f291bfcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>52898d8f2beee610d16df709f291bf51</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>568985032b222a10d16df709f291bfce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>568985032b222a10d16df709f291bfcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>#ffffff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>56898d8f2beee610d16df709f291bf51</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>5a8985032b222a10d16df709f291bfce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>5a8985032b222a10d16df709f291bfcf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>5e8985032b222a10d16df709f291bfce</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:00</sys_created_on>
+                        <sys_id>5e898d8f2beee610d16df709f291bf50</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:35:16</sys_created_on>
+                        <sys_id>6a8164cf2beae610d16df709f291bfab</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:38:01</sys_updated_on>
+                        <value>IncidentCount by Month &amp; Priority (SAP)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:35:16</sys_created_on>
+                        <sys_id>a68164cf2beae610d16df709f291bfab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:35:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:35:16</sys_created_on>
+                        <sys_id>aa8164cf2beae610d16df709f291bfaa</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:38:01</sys_updated_on>
+                        <value>3e2220032b2ee610d16df709f291bf51</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:35:16">2a8164cf2beae610d16df709f291bfaa</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:35:16</sys_created_on>
+                        <sys_id>e28164cf2beae610d16df709f291bfab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:35:16</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Unassigned Requests</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:18:30</sys_created_on>
+                <sys_id>3cbd904b2beae610d16df709f291bfa0</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:19:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>30bdf4cf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>30bdf4cf2baee610d16df709f291bf10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>30bdf4cf2baee610d16df709f291bf11</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>#fafcff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:18:30</sys_created_on>
+                        <sys_id>34bd904b2beae610d16df709f291bfa2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:18:30</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>34bdf4cf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>34bdf4cf2baee610d16df709f291bf10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>34bdf4cf2baee610d16df709f291bf11</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>38bdf4cf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>38bdf4cf2baee610d16df709f291bf10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>3cbdf4cf2baee610d16df709f291bf0f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:18</sys_created_on>
+                        <sys_id>3cbdf4cf2baee610d16df709f291bf10</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:18</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:18:30</sys_created_on>
+                        <sys_id>70bd904b2beae610d16df709f291bfa2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:18:30</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:18:30</sys_created_on>
+                        <sys_id>b0bd904b2beae610d16df709f291bfa1</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:19:43</sys_updated_on>
+                        <value>3efd508b2beae610d16df709f291bffb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:18:30</sys_created_on>
+                        <sys_id>bcbd904b2beae610d16df709f291bfa1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:18:30</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:18:30">3cbd904b2beae610d16df709f291bfa0</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:18:30</sys_created_on>
+                        <sys_id>f4bd904b2beae610d16df709f291bfa2</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:19:43</sys_updated_on>
+                        <value>Unassigned Requests</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Open Incidents by Priority</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:24:06</sys_created_on>
+                <sys_id>3efe988b2beae610d16df709f291bf30</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:29:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:24:06</sys_created_on>
+                        <sys_id>36fe988b2beae610d16df709f291bf31</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:24:06</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>56694d0f2beee610d16df709f291bf3e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:24:06</sys_created_on>
+                        <sys_id>7efe988b2beae610d16df709f291bf31</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:29:58</sys_updated_on>
+                        <value>Open Incidents by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>92694d0f2beee610d16df709f291bf3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>92694d0f2beee610d16df709f291bf40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>96694d0f2beee610d16df709f291bf3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>96694d0f2beee610d16df709f291bf40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>9a694d0f2beee610d16df709f291bf3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>9a694d0f2beee610d16df709f291bf40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>#ffffff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>9e694d0f2beee610d16df709f291bf3e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>9e694d0f2beee610d16df709f291bf3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:29:28</sys_created_on>
+                        <sys_id>9e694d0f2beee610d16df709f291bf40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:29:28</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:24:06</sys_created_on>
+                        <sys_id>bafe988b2beae610d16df709f291bf31</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:24:06</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:24:06</sys_created_on>
+                        <sys_id>befe988b2beae610d16df709f291bf30</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:29:58</sys_updated_on>
+                        <value>f050a00f2beae610d16df709f291bf61</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:24:06">3efe988b2beae610d16df709f291bf30</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:24:06</sys_created_on>
+                        <sys_id>f6fe988b2beae610d16df709f291bf31</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:24:06</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Service Request Count</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:50:09</sys_created_on>
+                <sys_id>68f4a8072b2ee610d16df709f291bf77</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:53:18</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:50:09</sys_created_on>
+                        <sys_id>24f4a8072b2ee610d16df709f291bf78</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:50:09</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>41d985032b222a10d16df709f291bfd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>41d985032b222a10d16df709f291bfd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>41d985032b222a10d16df709f291bfd5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>#f7f9fc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>45d985032b222a10d16df709f291bfd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>45d985032b222a10d16df709f291bfd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>45d985032b222a10d16df709f291bfd5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>49d985032b222a10d16df709f291bfd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>49d985032b222a10d16df709f291bfd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>4dd985032b222a10d16df709f291bfd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:17</sys_created_on>
+                        <sys_id>4dd985032b222a10d16df709f291bfd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:17</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:50:09</sys_created_on>
+                        <sys_id>60f4a8072b2ee610d16df709f291bf78</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:50:09</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:50:09</sys_created_on>
+                        <sys_id>a8f4a8072b2ee610d16df709f291bf78</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:53:18</sys_updated_on>
+                        <value>Service Request Count</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:50:09</sys_created_on>
+                        <sys_id>e4f4a8072b2ee610d16df709f291bf78</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:50:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:50:09">68f4a8072b2ee610d16df709f291bf77</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:50:09</sys_created_on>
+                        <sys_id>e8f4a8072b2ee610d16df709f291bf77</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:53:18</sys_updated_on>
+                        <value>baa5a0872b2ee610d16df709f291bfa1</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Open Changes - Grouped (SAP)</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+                <sys_id>9a43e4832b2ee610d16df709f291bf48</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:47:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+                        <sys_id>1a43e4832b2ee610d16df709f291bf49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:42:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+                        <sys_id>1e43e4832b2ee610d16df709f291bf48</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:47:52</sys_updated_on>
+                        <value>cb6468c32b2ee610d16df709f291bfe3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+                        <sys_id>5643e4832b2ee610d16df709f291bf49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:42:54</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+                        <sys_id>9243e4832b2ee610d16df709f291bf49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:42:54</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+                        <sys_id>da43e4832b2ee610d16df709f291bf49</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:47:52</sys_updated_on>
+                        <value>Open Changes - Grouped (SAP)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>f29901032b222a10d16df709f291bf9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>f29901032b222a10d16df709f291bf9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>f69901032b222a10d16df709f291bf9d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>f69901032b222a10d16df709f291bf9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>f69901032b222a10d16df709f291bf9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>#fcfcfd</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>fa9901032b222a10d16df709f291bf9d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>fa9901032b222a10d16df709f291bf9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:20</sys_created_on>
+                        <sys_id>fa9901032b222a10d16df709f291bf9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:20</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>fe9901032b222a10d16df709f291bf9d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:19</sys_created_on>
+                        <sys_id>fe9901032b222a10d16df709f291bf9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Problems By State (SAP)</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:54:58</sys_created_on>
+                <sys_id>9b06ec872b2ee610d16df709f291bf5b</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:57:15</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:54:58</sys_created_on>
+                        <sys_id>1b06ec872b2ee610d16df709f291bf5c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:54:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:54:58</sys_created_on>
+                        <sys_id>1f06ec872b2ee610d16df709f291bf5b</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:57:15</sys_updated_on>
+                        <value>e896ec872b2ee610d16df709f291bfc9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:54:58</sys_created_on>
+                        <sys_id>5706ec872b2ee610d16df709f291bf5c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:54:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:54:58</sys_created_on>
+                        <sys_id>9306ec872b2ee610d16df709f291bf5c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:54:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a0e9cdcf2beee610d16df709f291bfee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a0e9cdcf2beee610d16df709f291bfef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a0e9cdcf2beee610d16df709f291bff0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>#f9fafb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a4e9cdcf2beee610d16df709f291bfee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a4e9cdcf2beee610d16df709f291bfef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a4e9cdcf2beee610d16df709f291bff0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a8e9cdcf2beee610d16df709f291bfee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>a8e9cdcf2beee610d16df709f291bfef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>ace9cdcf2beee610d16df709f291bfee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:31:32</sys_created_on>
+                        <sys_id>ace9cdcf2beee610d16df709f291bfef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:31:32</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:54:58">9b06ec872b2ee610d16df709f291bf5b</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:54:58</sys_created_on>
+                        <sys_id>db06ec872b2ee610d16df709f291bf5c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:57:15</sys_updated_on>
+                        <value>Problems By State (SAP)</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Open  P1 Incidents</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 11:52:57</sys_created_on>
+                <sys_id>b31ac08b2b6ae610d16df709f291bf56</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 11:58:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:52:57</sys_created_on>
+                        <sys_id>331ac08b2b6ae610d16df709f291bf57</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:52:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:52:57</sys_created_on>
+                        <sys_id>371ac08b2b6ae610d16df709f291bf56</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:58:04</sys_updated_on>
+                        <value>e64b804f2b6ae610d16df709f291bf4c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:52:57</sys_created_on>
+                        <sys_id>7f1ac08b2b6ae610d16df709f291bf56</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:52:57</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:52:57</sys_created_on>
+                        <sys_id>bb1ac08b2b6ae610d16df709f291bf56</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:52:57</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>d39df4cf2baee610d16df709f291bf41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>d39df4cf2baee610d16df709f291bf42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>d39df4cf2baee610d16df709f291bf43</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>d79df4cf2baee610d16df709f291bf41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>d79df4cf2baee610d16df709f291bf42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>db9df4cf2baee610d16df709f291bf41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>db9df4cf2baee610d16df709f291bf42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>df9df4cf2baee610d16df709f291bf40</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>df9df4cf2baee610d16df709f291bf41</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:37:55</sys_created_on>
+                        <sys_id>df9df4cf2baee610d16df709f291bf42</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:37:55</sys_updated_on>
+                        <value>#ffffff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 04:52:57">b31ac08b2b6ae610d16df709f291bf56</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:52:57</sys_created_on>
+                        <sys_id>f31ac08b2b6ae610d16df709f291bf57</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:58:04</sys_updated_on>
+                        <value>Open  P1 Incidents</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Open Problems (SAP)</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:19:56</sys_created_on>
+                <sys_id>ce0e508b2beae610d16df709f291bf84</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:21:22</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:19:56</sys_created_on>
+                        <sys_id>020e508b2beae610d16df709f291bf86</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:21:22</sys_updated_on>
+                        <value>Open Problems (SAP)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:19:56</sys_created_on>
+                        <sys_id>420e508b2beae610d16df709f291bf85</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:21:22</sys_updated_on>
+                        <value>7e5ed88b2beae610d16df709f291bf92</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:19:56</sys_created_on>
+                        <sys_id>4e0e508b2beae610d16df709f291bf85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:19:56</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>53dd38cf2baee610d16df709f291bf28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>53dd38cf2baee610d16df709f291bf29</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>53dd38cf2baee610d16df709f291bf2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>#ffffff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>57dd38cf2baee610d16df709f291bf28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>57dd38cf2baee610d16df709f291bf29</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>57dd38cf2baee610d16df709f291bf2a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>5bdd38cf2baee610d16df709f291bf28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>5bdd38cf2baee610d16df709f291bf29</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>5fdd38cf2baee610d16df709f291bf28</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:39:01</sys_created_on>
+                        <sys_id>5fdd38cf2baee610d16df709f291bf29</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:39:01</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:19:56</sys_created_on>
+                        <sys_id>8a0e508b2beae610d16df709f291bf85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:19:56</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:19:56">ce0e508b2beae610d16df709f291bf84</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:19:56</sys_created_on>
+                        <sys_id>c60e508b2beae610d16df709f291bf85</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:19:56</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Total number of stories</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 11:58:14</sys_created_on>
+                <sys_id>d15bc04f2b6ae610d16df709f291bf24</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 11:59:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:58:14</sys_created_on>
+                        <sys_id>155bc04f2b6ae610d16df709f291bf25</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:59:48</sys_updated_on>
+                        <value>Total number of stories</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>31cd7ccf2baee610d16df709f291bf65</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>31cd7ccf2baee610d16df709f291bf66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>31cd7ccf2baee610d16df709f291bf67</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>#f8f9fc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>35cd7ccf2baee610d16df709f291bf65</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>35cd7ccf2baee610d16df709f291bf66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>35cd7ccf2baee610d16df709f291bf67</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>39cd7ccf2baee610d16df709f291bf65</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>39cd7ccf2baee610d16df709f291bf66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>3dcd7ccf2baee610d16df709f291bf65</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 15:38:39</sys_created_on>
+                        <sys_id>3dcd7ccf2baee610d16df709f291bf66</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 15:38:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:58:14</sys_created_on>
+                        <sys_id>515bc04f2b6ae610d16df709f291bf25</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:58:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:58:14</sys_created_on>
+                        <sys_id>555bc04f2b6ae610d16df709f291bf24</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:59:48</sys_updated_on>
+                        <value>c8bbc44f2b6ae610d16df709f291bf1c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:58:14</sys_created_on>
+                        <sys_id>9d5bc04f2b6ae610d16df709f291bf24</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:58:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 04:58:14">d15bc04f2b6ae610d16df709f291bf24</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 11:58:14</sys_created_on>
+                        <sys_id>d95bc04f2b6ae610d16df709f291bf24</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 11:58:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="Operation Metrics">4af840c72b6ae610d16df709f291bf8e</page>
+                <summary>Priority wise Incident assigned (SAP)</summary>
+                <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                <sys_created_on>2025-07-09 13:40:03</sys_created_on>
+                <sys_id>e4a2ac032b2ee610d16df709f291bf08</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                <sys_updated_on>2025-07-09 13:42:21</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:40:03</sys_created_on>
+                        <sys_id>28a2ac032b2ee610d16df709f291bf09</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:42:21</sys_updated_on>
+                        <value>Priority wise Incident assigned (SAP)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>60c90d0f2beee610d16df709f291bf97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>60c90d0f2beee610d16df709f291bf98</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:40:03</sys_created_on>
+                        <sys_id>64a2ac032b2ee610d16df709f291bf09</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:40:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>64c90d0f2beee610d16df709f291bf97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>64c90d0f2beee610d16df709f291bf98</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:40:03</sys_created_on>
+                        <sys_id>68a2ac032b2ee610d16df709f291bf08</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:42:21</sys_updated_on>
+                        <value>de23ec432b2ee610d16df709f291bf72</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>68c90d0f2beee610d16df709f291bf96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>68c90d0f2beee610d16df709f291bf97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>68c90d0f2beee610d16df709f291bf98</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>#fafcff</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>6cc90d0f2beee610d16df709f291bf96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>6cc90d0f2beee610d16df709f291bf97</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>header_color</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 16:30:59</sys_created_on>
+                        <sys_id>6cc90d0f2beee610d16df709f291bf98</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 16:30:59</sys_updated_on>
+                        <value>#006e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:40:03</sys_created_on>
+                        <sys_id>a0a2ac032b2ee610d16df709f291bf09</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:40:03</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-07-09 06:40:03">e4a2ac032b2ee610d16df709f291bf08</portal_section>
+                        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+                        <sys_created_on>2025-07-09 13:40:03</sys_created_on>
+                        <sys_id>eca2ac032b2ee610d16df709f291bf08</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+                        <sys_updated_on>2025-07-09 13:40:03</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

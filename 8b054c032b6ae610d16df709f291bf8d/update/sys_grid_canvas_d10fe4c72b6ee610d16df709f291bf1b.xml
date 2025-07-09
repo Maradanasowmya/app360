@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="Security View">910fe4c72b6ee610d16df709f291bf1a</legacy_page>
+        <name>New Tab 4</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 14:34:10</sys_created_on>
+        <sys_id>d10fe4c72b6ee610d16df709f291bf1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 4</sys_name>
+        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_update_name>sys_grid_canvas_d10fe4c72b6ee610d16df709f291bf1b</sys_update_name>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 14:34:10</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
