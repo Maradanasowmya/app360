@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="New Tab 3">6cdc2c832b6ee610d16df709f291bf93</canvas_page>
+        <name>acdcec832b6ee610d16df709f291bf99Unified Software View</name>
+        <page display_value="Unified Software View">a4dc2c832b6ee610d16df709f291bf92</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 14:24:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>acdcec832b6ee610d16df709f291bf99</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>acdcec832b6ee610d16df709f291bf99Unified Software View</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_update_name>pa_tabs_acdcec832b6ee610d16df709f291bf99</sys_update_name>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 14:24:55</sys_updated_on>
+    </pa_tabs>
+</record_update>

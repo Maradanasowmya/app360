@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_iframe">
+    <content_block_iframe action="DELETE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <frame_name/>
+        <height>600</height>
+        <logged_on>false</logged_on>
+        <name>Administrator</name>
+        <sizing>expand</sizing>
+        <sys_class_name>content_block_iframe</sys_class_name>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 14:11:15</sys_created_on>
+        <sys_id>d8b9244f2b2ee610d16df709f291bf6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administrator</sys_name>
+        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_update_name>content_block_iframe_d8b9244f2b2ee610d16df709f291bf6a</sys_update_name>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 14:11:15</sys_updated_on>
+        <url>$ngbsm.do?id=c37845328f936300a3c953ac37bdeecb&amp;referrer=form&amp;sysparm_stack=cmdb_ci_service_list.do</url>
+        <width>400</width>
+    </content_block_iframe>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App360">8b054c032b6ae610d16df709f291bf8d</application>
+        <file_path/>
+        <instance_id>878021351bbb7d1c19254089bd4bcba3</instance_id>
+        <instance_name>nowops</instance_name>
+        <name>content_block_iframe_d8b9244f2b2ee610d16df709f291bf6a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_iframe"><content_block_iframe action="INSERT_OR_UPDATE"><active>true</active><category>general</category><condition/><conditional>false</conditional><frame/><frame_name/><height>600</height><logged_on>false</logged_on><name>Administrator</name><sizing>expand</sizing><sys_class_name>content_block_iframe</sys_class_name><sys_created_by>Sowmya.Maradana@ust.com</sys_created_by><sys_created_on>2025-07-09 14:11:15</sys_created_on><sys_id>d8b9244f2b2ee610d16df709f291bf6a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Administrator</sys_name><sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package><sys_policy/><sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope><sys_update_name>content_block_iframe_d8b9244f2b2ee610d16df709f291bf6a</sys_update_name><sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by><sys_updated_on>2025-07-09 14:11:15</sys_updated_on><url>$ngbsm.do?id=c37845328f936300a3c953ac37bdeecb&amp;referrer=form&amp;sysparm_stack=cmdb_ci_service_list.do</url><width>400</width></content_block_iframe></record_update>]]></payload>
+        <payload_hash>697512105</payload_hash>
+        <record_name>Administrator</record_name>
+        <reverted_from/>
+        <source>83054c032b6ae610d16df709f291bf92</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 14:11:15</sys_created_on>
+        <sys_id>69c96c4f2b2ee610d16df709f291bfa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197ef86c1100000001</sys_recorded_at>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 14:11:15</sys_updated_on>
+        <type>IFrames</type>
+        <update_guid>2dc96c4f002ee6100994c53af18a57a0</update_guid>
+        <update_guid_history>2dc96c4f002ee6100994c53af18a57a0:697512105</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Administrator">27d9a84f2b2ee610d16df709f291bf22</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 14:11:39</sys_created_on>
+        <sys_db_object display_value="" name="content_block_iframe">content_block_iframe</sys_db_object>
+        <sys_id>7d2dce5822ec41dc87d74a22229f3d10</sys_id>
+        <sys_metadata>d8b9244f2b2ee610d16df709f291bf6a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Administrator</sys_name>
+        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_scope_delete display_value="">319c24d3282243aab97ba8cf8c536429</sys_scope_delete>
+        <sys_update_name>content_block_iframe_d8b9244f2b2ee610d16df709f291bf6a</sys_update_name>
+        <sys_update_version display_value="content_block_iframe_d8b9244f2b2ee610d16df709f291bf6a">69c96c4f2b2ee610d16df709f291bfa1</sys_update_version>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 14:11:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

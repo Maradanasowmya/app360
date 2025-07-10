@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="New Tab 1">02f840c72b6ae610d16df709f291bf90</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2025-07-09 06:42:54">9a43e4832b2ee610d16df709f291bf48</portal_widget>
+        <posx>5</posx>
+        <posy>16</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
+        <sys_created_on>2025-07-09 13:42:54</sys_created_on>
+        <sys_id>9243e4832b2ee610d16df709f291bf4a</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>02f840c72b6ae610d16df709f291bf90</sys_name>
+        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_9243e4832b2ee610d16df709f291bf4a</sys_update_name>
+        <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
+        <sys_updated_on>2025-07-09 13:57:59</sys_updated_on>
+        <width>7</width>
+    </sys_grid_canvas_pane>
+</record_update>
