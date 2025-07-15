@@ -72,7 +72,7 @@
         <location_field/>
         <lower_limit/>
         <map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map>
-        <map_source/>
+        <map_source display_value="Security Incident Location">297b6ca40b321200cbf38ee337673ad8</map_source>
         <no_bulk_migration>false</no_bulk_migration>
         <orderby_list/>
         <other_threshold>-2</other_threshold>
@@ -109,14 +109,14 @@
         <sys_created_by>Sowmya.Maradana@ust.com</sys_created_by>
         <sys_created_on>2025-07-09 15:28:25</sys_created_on>
         <sys_id>087bf4cb2baee610d16df709f291bf25</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Security Incident Map</sys_name>
-        <sys_package display_value="App360" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
+        <sys_package display_value="App360 Dashboard" source="x_ustgl_app360">8b054c032b6ae610d16df709f291bf8d</sys_package>
         <sys_policy/>
-        <sys_scope display_value="App360">8b054c032b6ae610d16df709f291bf8d</sys_scope>
+        <sys_scope display_value="App360 Dashboard">8b054c032b6ae610d16df709f291bf8d</sys_scope>
         <sys_update_name>sys_report_087bf4cb2baee610d16df709f291bf25</sys_update_name>
         <sys_updated_by>Sowmya.Maradana@ust.com</sys_updated_by>
-        <sys_updated_on>2025-07-09 15:31:16</sys_updated_on>
+        <sys_updated_on>2025-07-15 11:19:12</sys_updated_on>
         <table>sn_si_incident</table>
         <title>Security Incident Map</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
